@@ -25,7 +25,7 @@ A modelagem do banco de dados é composta por várias etapas, documentadas nos s
 - **MERX T2.pdf**: Contém o diagrama ME-RX que ilustra as entidades, relacionamentos e abstrações utilizadas.
 - **Descrições MER.pdf**: Explica as decisões de projeto e as restrições assumidas durante a modelagem.
 - **Mapeamento MER-_MRel.pdf**: Detalha o processo de mapeamento do ME-RX para o modelo relacional, incluindo a criação de tabelas e a definição de chaves.
-- **trabalho2_(1).ipynb**: Notebook que implementa as tabelas e faz as consultas para teste de funcionamento do modelo.
+- **trabalho2_(1).ipynb**: Notebook que implementa as tabelas - utilizando a biblioteca pandas - e faz as consultas para teste de funcionamento do modelo.
 
 ### Principais Entidades e Relacionamentos
 
