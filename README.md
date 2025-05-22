@@ -17,6 +17,7 @@ Para resolver este desafio, adotamos a seguinte abordagem:
 1. **Modelagem Conceitual**: Utilizamos o Modelo Entidade-Relacionamento Estendido (ME-RX) para criar um diagrama que representa as entidades, relacionamentos, abstrações de generalização e agregação.
 2. **Mapeamento para Modelo Relacional**: Convertemos o modelo ME-RX em um esquema relacional, definindo tabelas, chaves primárias, chaves estrangeiras e restrições de integridade.
 3. **Carga de Dados**: Utilizamos dados reais do AirBnB para popular as tabelas, garantindo que a modelagem seja testada com informações autênticas.
+4. **Consultas**: Após a carga de dados, concretizamos criamos as tabelas no jupiter notebook do projeto e fizemos testes de consultas.
 
 ## Modelagem do Banco de Dados
 
@@ -24,6 +25,7 @@ A modelagem do banco de dados é composta por várias etapas, documentadas nos s
 - **MERX T2.pdf**: Contém o diagrama ME-RX que ilustra as entidades, relacionamentos e abstrações utilizadas.
 - **Descrições MER.pdf**: Explica as decisões de projeto e as restrições assumidas durante a modelagem.
 - **Mapeamento MER-_MRel.pdf**: Detalha o processo de mapeamento do ME-RX para o modelo relacional, incluindo a criação de tabelas e a definição de chaves.
+- **trabalho2_(1).ipynb**: Notebook que implementa as tabelas e faz as consultas para teste de funcionamento do modelo.
 
 ### Principais Entidades e Relacionamentos
 
